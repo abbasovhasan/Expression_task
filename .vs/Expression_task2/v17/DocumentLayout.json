@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\Expression_task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E02B1887-9EE4-42B1-98AA-379691303A09}|ExpressionLab\\ExpressionLab.csproj|c:\\users\\abbas\\onedrive\\documents\\c#\\expression_task2\\expressionlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E02B1887-9EE4-42B1-98AA-379691303A09}|ExpressionLab\\ExpressionLab.csproj|solutionrelative:expressionlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB227A2-6347-428F-BBC9-DA6D2A121285}|Expression_task2\\Expression_task2.csproj|c:\\users\\abbas\\onedrive\\documents\\c#\\expression_task2\\expression_task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB227A2-6347-428F-BBC9-DA6D2A121285}|Expression_task2\\Expression_task2.csproj|solutionrelative:expression_task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB227A2-6347-428F-BBC9-DA6D2A121285}|Expression_task2\\Expression_task2.csproj|c:\\users\\abbas\\onedrive\\documents\\c#\\expression_task2\\expression_task2\\modules\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB227A2-6347-428F-BBC9-DA6D2A121285}|Expression_task2\\Expression_task2.csproj|solutionrelative:expression_task2\\modules\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\Expression_task2\\ExpressionLab\\Program.cs",
+              "RelativeDocumentMoniker": "ExpressionLab\\Program.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\Expression_task2\\ExpressionLab\\Program.cs",
+              "RelativeToolTip": "ExpressionLab\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:28:31.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\Expression_task2\\Expression_task2\\Modules\\Employees.cs",
+              "RelativeDocumentMoniker": "Expression_task2\\Modules\\Employees.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\Expression_task2\\Expression_task2\\Modules\\Employees.cs",
+              "RelativeToolTip": "Expression_task2\\Modules\\Employees.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:06:14.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\Expression_task2\\Expression_task2\\Program.cs",
+              "RelativeDocumentMoniker": "Expression_task2\\Program.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\C#\\Expression_task2\\Expression_task2\\Program.cs",
+              "RelativeToolTip": "Expression_task2\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:05:11.092Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

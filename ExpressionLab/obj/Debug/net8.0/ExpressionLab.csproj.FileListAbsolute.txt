@@ -1,0 +1,14 @@
+C:\Users\abbas\OneDrive\Documents\C#\Expression_task2\ExpressionLab\bin\Debug\net8.0\ExpressionLab.exe
+C:\Users\abbas\OneDrive\Documents\C#\Expression_task2\ExpressionLab\bin\Debug\net8.0\ExpressionLab.deps.json
+C:\Users\abbas\OneDrive\Documents\C#\Expression_task2\ExpressionLab\bin\Debug\net8.0\ExpressionLab.runtimeconfig.json
+C:\Users\abbas\OneDrive\Documents\C#\Expression_task2\ExpressionLab\bin\Debug\net8.0\ExpressionLab.dll
+C:\Users\abbas\OneDrive\Documents\C#\Expression_task2\ExpressionLab\bin\Debug\net8.0\ExpressionLab.pdb
+C:\Users\abbas\OneDrive\Documents\C#\Expression_task2\ExpressionLab\obj\Debug\net8.0\ExpressionLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\OneDrive\Documents\C#\Expression_task2\ExpressionLab\obj\Debug\net8.0\ExpressionLab.AssemblyInfoInputs.cache
+C:\Users\abbas\OneDrive\Documents\C#\Expression_task2\ExpressionLab\obj\Debug\net8.0\ExpressionLab.AssemblyInfo.cs
+C:\Users\abbas\OneDrive\Documents\C#\Expression_task2\ExpressionLab\obj\Debug\net8.0\ExpressionLab.csproj.CoreCompileInputs.cache
+C:\Users\abbas\OneDrive\Documents\C#\Expression_task2\ExpressionLab\obj\Debug\net8.0\ExpressionLab.dll
+C:\Users\abbas\OneDrive\Documents\C#\Expression_task2\ExpressionLab\obj\Debug\net8.0\refint\ExpressionLab.dll
+C:\Users\abbas\OneDrive\Documents\C#\Expression_task2\ExpressionLab\obj\Debug\net8.0\ExpressionLab.pdb
+C:\Users\abbas\OneDrive\Documents\C#\Expression_task2\ExpressionLab\obj\Debug\net8.0\ExpressionLab.genruntimeconfig.cache
+C:\Users\abbas\OneDrive\Documents\C#\Expression_task2\ExpressionLab\obj\Debug\net8.0\ref\ExpressionLab.dll
